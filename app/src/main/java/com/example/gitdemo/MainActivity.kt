@@ -16,7 +16,7 @@ import com.example.gitdemo.ui.theme.GitDemoTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Log.d("TAG", "Esto es una prueba")
+        Log.d("TAG", "Test 01")
         setContent {
             GitDemoTheme {
                 // A surface container using the 'background' color from the theme
